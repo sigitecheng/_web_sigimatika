@@ -11,3 +11,13 @@ MYSQL	: https://bit.ly/MateriMYSQL
 NodeJS	: https://bit.ly/MateriNodeJS
 Oracle	: https://bit.ly/MateriOracle
 Perl : https://bit.ly/MateriPerl
+
+php : https://bit.ly/MateriPHP_
+postgree : https://bit.ly/MateriPostgree_
+python : https://bit.ly/MateriPyhton
+react : https://bit.ly/MateriReact_
+ruby : https://bit.ly/MateriRuby
+spring : https://bit.ly/MateriSpring
+SQL : https://bit.ly/MateriSQL
+VB : https://bit.ly/MateriVB
+Swift : https://bit.ly/MateriSwift
